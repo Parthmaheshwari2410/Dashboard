@@ -1,0 +1,40 @@
+.settings {
+    padding: 20px;
+  }
+  
+  .setting-item {
+    margin-bottom: 15px;
+    
+  }
+  .htheme{
+    margin: 4px;
+    color: #71a0d3;
+  }
+  .dtheme{
+    color: #71a0d3;
+  }
+  .btn{
+    background:  #71a0d3;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .eupdate{
+    padding: "20px";
+    
+    font-family:Arial ;
+  }
+ 
+ 
+  .save-btn {
+    margin-top: 10px;
+    background:  #71a0d3;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  

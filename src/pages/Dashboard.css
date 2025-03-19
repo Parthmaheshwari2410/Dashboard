@@ -1,0 +1,30 @@
+.dashboard {
+    padding: 20px;
+  }
+  
+  .stats {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    background:  #71a0d3;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    flex: 1;
+    text-align: center;
+  }
+  
+  .transactions {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .transactions th, .transactions td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
